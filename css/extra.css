@@ -25,6 +25,11 @@
     color: black;
 }
 
+.iframe-wrap { 
+    -webkit-overflow-scrolling: touch;
+    overflow: auto;
+}
+
 body {
     font-family: 'Noto Sans JP', sans-serif;
 }
