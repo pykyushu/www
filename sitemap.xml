@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+     <loc>http://www.pykyushu.jp/</loc>
+     <lastmod>2019-10-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://www.pykyushu.jp/pyconkyushu2018/</loc>
+     <lastmod>2019-10-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://www.pykyushu.jp/pyconkyushu2019/</loc>
+     <lastmod>2019-10-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://www.pykyushu.jp/join2020/</loc>
+     <lastmod>2019-10-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    <url>
+     <loc>http://www.pykyushu.jp/sponser2020/</loc>
+     <lastmod>2019-10-17</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
