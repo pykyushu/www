@@ -1,0 +1,86 @@
+site_name: 'PyCon Kyushu Exective Committee'
+
+site_description: 'PyCon Kyushu executive committee management site.'
+site_author: 'Takahiro Hama'
+site_url: 'http://www.pykyushu.jp'
+
+docs_dir: 'docs'
+copyright: 'Copyright (c) PyCon Kyushu Exective Committee 2017-2019'
+
+repo_name: pykyushu/www
+repo_url: https://github.com/pykyushu/www
+
+nav:
+  - 組織: 'index.md'
+  - 活動実績:
+    - PyConKyushu2018: 'pyconkyushu2018.md'
+    - PyConKyushu2019: 'pyconkyushu2019.md'
+  - 実行委員募集:
+      - 'PyConKyushu2020(熊本)': 'join2020.md'
+  - スポンサー募集:
+      - PyConKyushu2020(熊本): 'sponser2020.md'
+
+plugins:
+  - search
+  - markdownextradata: {}
+
+theme:
+   name: 'material'
+   language: 'ja'
+   palette:
+       primary: 'Deep Orange'
+       accent: 'Deep Orange'
+   feature:
+       tabs: true
+   logo: 'img/python.svg'
+   favicon: 'img/favicon.ico'
+
+extra:
+  manifest: 'manifest.webmanifest'
+  social:
+    - type: 'github'
+      link: 'https://github.com/pykyushu'
+    - type: 'twitter'
+      link: 'https://twitter.com/PyConK'
+    - type: 'facebook'
+      link: 'https://www.facebook.com/pg/kyushu.pycon.jp'
+  search:
+     language: 'ja'
+  committee:
+    president: '濵　敬博'
+    deputypresident: '清田　史和'
+    director1: '多和田　真悟'
+    email: 'info@pykyushu.jp'
+    url: 'https://kyushu.pycon.jp'
+    establish: '2017年9月21日'
+
+markdown_extensions:
+  - admonition
+  - toc:
+       permalink: 'true'
+  - attr_list
+  - meta
+  - footnotes
+  - nl2br
+  - pymdownx.arithmatex
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.highlight
+  - pymdownx.tasklist
+
+extra_css:
+  - 'css/extra.css'
+  - '//fonts.googleapis.com/earlyaccess/notosansjp.css'
