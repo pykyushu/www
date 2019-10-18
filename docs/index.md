@@ -1,8 +1,8 @@
 ## 1. 実行委員会の概要・目的
 
-私たちは、Pythonを九州各地に広めるべく、九州で継続的に  
-Pythonのminiカンファレンス(PyConKyushu)を  
-開催するために組織された非営利のボランティア団体です。  
+私たちは、Pythonを九州各地に広めるべく、
+九州でPythonのminiカンファレンス(PyConKyushu)を  
+継続的に開催するために組織された非営利のボランティア団体です。  
 
 PyConKyushuは、機械学習やディープラーニングなどで注目が高まっている  
 プログラミング言語Pythonをテーマとしたカンファレンスで、  
@@ -30,10 +30,3 @@ PyConKyushuは、機械学習やディープラーニングなどで注目が高
 連絡先：{{committee.email}}  
 
 [![](img/logo.png){: style="height:20%;width:20%"}](https://www.pykyushu.jp) 
-
-
-
-!!! info
-    PyCon™ is a trademark for worldwide conference activities 
-    claimed by the Python Software foundation.   
-    PyCon Kyushu is organized by volunteers from PyCon Kyushu in Japan.

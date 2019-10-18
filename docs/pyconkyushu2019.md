@@ -6,7 +6,7 @@
 ・沖縄を中心に生息するヘビの「ハブ」がPython(ニシキヘビ)を彷彿させる
 の２つの意味を込めてテーマを「Hub」に決めた。
 
-当日は、スタッフも含めて150名以上の方に参加いただき、再び成功を収めました。
+当日は、スタッフも含めて150名以上の方に参加いただき、再び成功を収めた。
 
 https://kyushu.pycon.jp/2019/
 
@@ -21,10 +21,5 @@ Theme: Hub
 KeyNote: Nobuaki Oshiro  
 Talk: 12  
   
-Main Sponser: 
+Main Sponsor: 
 [![Chura DATA Inc.](img/churadata_logo.jpg){: style="height:20%;width:20%"}](https://churadata.okinawa) 
-
-!!! info
-    PyCon™ is a trademark for worldwide conference activities 
-    claimed by the Python Software foundation.   
-    PyCon Kyushu is organized by volunteers from PyCon Kyushu in Japan.
