@@ -1,13 +1,13 @@
-site_name: 'PyCon Kyushu Exective Committee'
+site_name: 'PyKyushu.JP(PyConKyushu実行委員会)'
 
-site_description: 'PyCon Kyushu executive committee management site.'
+site_description: 'PyKyushu.JP Management Site.'
 site_author: 'Takahiro Hama'
 site_url: 'http://www.pykyushu.jp'
 
 docs_dir: 'docs'
 copyright: 'PyCon™ is a trademark for worldwide conference activities claimed by the Python Software foundation.<BR>
 PyCon Kyushu is organized by volunteers from PyCon Kyushu in Japan.<BR><BR>
-Copyright (c) PyCon Kyushu Exective Committee 2017-2019'
+Copyright (c) PyKyushu.JP 2017-2019'
 
 repo_name: pykyushu/www
 repo_url: https://github.com/pykyushu/www
@@ -21,7 +21,8 @@ nav:
       - 'PyConKyushu2020(熊本)': 'join2020.md'
   - スポンサー募集:
       - PyConKyushu2020(熊本): 'sponser2020.md'
-
+  - ブログ（PyConJP Blog）: 'https://pyconjp.blogspot.com/search/label/kyushu'
+      
 plugins:
   - search
   - markdownextradata: {}
