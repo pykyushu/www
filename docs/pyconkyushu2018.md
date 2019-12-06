@@ -1,4 +1,4 @@
-# PyConKyushu 2018 in Fukuoka
+# PyConKyushu 2018 Fukuoka
 
 ## 概要  
 Pythonをテーマとした九州で初めてのカンファレンスを福岡で開催。

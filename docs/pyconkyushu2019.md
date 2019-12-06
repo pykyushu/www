@@ -1,4 +1,4 @@
-# PyConKyushu 2019 in Okinawa  
+# PyConKyushu in Okinawa 2019  
 
 ## 概要  
 第２回のPyCon Kyushuは、沖縄で開催。

@@ -15,14 +15,57 @@
 }
 
 .md-typeset h3 {
+    font-size: 16px;
+    color: #404040;
+    font-weight: bold;
+}
+
+.md-typeset h4 {
     font-size: 14px;
     color: #404040;
     font-weight: bold;
 }
 
+.md-typeset li {
+    font-size: 14px;
+    color: #000000;
+}
+
+.md-typeset__table {
+    min-width: 100%;
+}
+
 .md-typeset p {
     font-size: 14px;
     color: black;
+}
+
+.md-typeset span[id='Platinum'] {
+    font-size: 16px;
+    color: #E5E4E2;
+    font-weight: bold;
+}
+
+.md-typeset span[id='Gold'] {
+    font-size: 16px;
+    color: #FFD700;
+    font-weight: bold;
+}
+
+.md-typeset span[id='Silver'] {
+    font-size: 16px;
+    color: #C0C0C0;
+    font-weight: bold;
+}
+
+.md-typeset tr {
+    background-color: #ffb1a6;
+}
+
+.md-typeset div.platinum_text {
+    font-size: 16px;
+    font-weight: bold;
+    color: red;
 }
 
 .iframe-wrap { 
