@@ -1,33 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>http://www.pykyushu.jp/</loc>
-     <lastmod>2019-12-07</lastmod>
+     <lastmod>2020-09-28</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>http://www.pykyushu.jp/pyconkyushu2018/</loc>
-     <lastmod>2019-12-07</lastmod>
+     <lastmod>2020-09-28</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
+    </url><url>
      <loc>http://www.pykyushu.jp/pyconkyushu2019/</loc>
-     <lastmod>2019-12-07</lastmod>
+     <lastmod>2020-09-28</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://www.pykyushu.jp/join2020/</loc>
-     <lastmod>2019-12-07</lastmod>
+    </url><url>
+     <loc>http://www.pykyushu.jp/pyconkyushu2020/</loc>
+     <lastmod>2020-09-28</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc>http://www.pykyushu.jp/sponser2020/</loc>
-     <lastmod>2019-12-07</lastmod>
+    </url><url>
+     <loc>http://www.pykyushu.jp/join2021/</loc>
+     <lastmod>2020-09-28</lastmod>
      <changefreq>daily</changefreq>
-    </url>
-    <url>
-     <loc></loc>
-     
+    </url><url>
+     <loc>http://www.pykyushu.jp/sponser/</loc>
+     <lastmod>2020-09-28</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
