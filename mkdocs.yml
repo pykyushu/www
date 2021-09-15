@@ -7,7 +7,7 @@ site_url: 'http://www.pykyushu.jp'
 docs_dir: 'docs'
 copyright: 'PyCon™ is a trademark for worldwide conference activities claimed by the Python Software foundation.<BR>
 PyCon Kyushu is organized by volunteers from PyCon Kyushu in Japan.<BR><BR>
-Copyright (c) PyKyushu.JP 2017-2020'
+Copyright (c) PyKyushu.JP 2017-2022'
 
 repo_name: pykyushu/www
 repo_url: https://github.com/pykyushu/www
@@ -19,9 +19,9 @@ nav:
       - PyConKyushu2019: 'pyconkyushu2019.md'
       - PyConKyushu2020: 'pyconkyushu2020.md'
   - 実行委員募集:
-      - 'PyConKyushu2021': 'join2021.md'
+      - 'PyConKyushu2022': 'join2022.md'
   - スポンサー募集:
-      - PyConKyushu2021: 'sponser.md'
+      - PyConKyushu2022: 'sponser.md'
   - ブログ（PyConJP Blog）: 'https://pyconjp.blogspot.com/search/label/kyushu'
 
 
