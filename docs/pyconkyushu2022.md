@@ -24,7 +24,7 @@ date : 2022/01/22
 participant: about 35  
   
 Theme: Grow with Covid-19  
-KeyNote:  Shimizukawa Takayuki
+KeyNote:  Takayuki Shimizukawa
 Talk: 14  
   
 Main Sponsor: 
