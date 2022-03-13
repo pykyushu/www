@@ -1,4 +1,4 @@
-site_name: 'PyKyushu.JP(PyConKyushu実行委員会　運営ページ)'
+site_name: 'PyKyushu.JP(PyConKyushu実行委員会 運営)'
 
 site_description: 'PyKyushu.JP Management Site.'
 site_author: 'Takahiro Hama'
@@ -18,10 +18,7 @@ nav:
       - PyConKyushu2018: 'pyconkyushu2018.md'
       - PyConKyushu2019: 'pyconkyushu2019.md'
       - PyConKyushu2020: 'pyconkyushu2020.md'
-  - 実行委員募集:
-      - 'PyConKyushu2022': 'join2022.md'
-  - スポンサー募集:
-      - PyConKyushu2022: 'sponsor.md'
+      - PyConKyushu2022: 'pyconkyushu2022.md'
   - ブログ（PyConJP Blog）: 'https://pyconjp.blogspot.com/search/label/kyushu'
 
 
@@ -29,9 +26,17 @@ theme:
   name: 'material'
   language: 'ja'
   features:
-    - tabs
-    - instant
-  logo: img/python.svg
+    - navigation.instant
+    - navigation.indexes
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    - toc.follow
+  logo: img/logo2.png
   favicon: img/favicon.ico
 
 plugins:
@@ -64,7 +69,8 @@ markdown_extensions:
   - pymdownx.critic
   - pymdownx.details
   - pymdownx.emoji:
-      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
   - pymdownx.inlinehilite
   - pymdownx.magiclink
   - pymdownx.mark

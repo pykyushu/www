@@ -1,8 +1,8 @@
 .md-typeset h1 {
     font-size: 24px;
-    color: #f8d700;
+    color: #043A63;
     font-weight: bold;
-    border-bottom: solid 4px #f8d700;
+    border-bottom: solid 4px #043A63;
     padding-bottom: 5px;
 }
 
@@ -78,7 +78,7 @@ body {
 }
 
 :root {
-  --md-primary-fg-color: #0022ff;
-  --md-primary-fg-color--light: #ECB7B7;
-  --md-primary-fg-color--dark:  #90030C;
+  --md-primary-fg-color: #0E6EB8;
+  --md-primary-fg-color--light: #7fadcf;
+  --md-primary-fg-color--dark:  #0b3a5e;
 }

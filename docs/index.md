@@ -27,6 +27,8 @@ PyConKyushuは、機械学習やディープラーニングなどで注目が高
 
 ## 3. お問い合わせ
 お問い合わせは以下までお願い致します。  
-連絡先：info@pykyushu.jp
+連絡先：info@pykyushu.jp  
+  
+[Send :fontawesome-solid-paper-plane:](mailto:info@pykyushu.jp){ .md-button }
 
 [![](img/logo.png){: style="height:20%;width:20%"}](https://www.pykyushu.jp) 

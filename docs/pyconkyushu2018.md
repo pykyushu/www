@@ -6,7 +6,7 @@ Pythonをテーマとした九州で初めてのカンファレンスを福岡�
   
 当日は、スタッフも含めて180名以上の方に参加いただき、成功を収めた。
 
-https://kyushu.pycon.jp/2018/
+[Web Site](https://kyushu.pycon.jp/2018/){ .md-button }
 
 ## 詳細
 area : Fukuoka City, Fukuoka Prefecture, Japan  
