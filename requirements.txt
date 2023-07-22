@@ -11,8 +11,6 @@ click==7.0
     #   pip-tools
 future==0.18.2
     # via lunr
-importlib-metadata==1.7.0
-    # via markdown
 jinja2==2.10.3
     # via mkdocs
 joblib==0.16.0
@@ -28,20 +26,20 @@ markdown==3.2.2
     #   pymdown-extensions
 markupsafe==1.1.1
     # via jinja2
-mkdocs-markdownextradata-plugin==0.0.6
-    # via -r requirements.in
-mkdocs-material-extensions==1.0
-    # via mkdocs-material
-mkdocs-material==5.5.12
-    # via
-    #   -r requirements.in
-    #   mkdocs-material-extensions
 mkdocs==1.1.2
     # via
     #   -r requirements.in
     #   mkdocs-markdownextradata-plugin
     #   mkdocs-material
-nltk==3.5
+mkdocs-markdownextradata-plugin==0.0.6
+    # via -r requirements.in
+mkdocs-material==5.5.12
+    # via
+    #   -r requirements.in
+    #   mkdocs-material-extensions
+mkdocs-material-extensions==1.0
+    # via mkdocs-material
+nltk==3.6.6
     # via lunr
 pip-tools==4.2.0
     # via -r requirements.in
@@ -55,7 +53,7 @@ pyyaml==5.1.2
     # via
     #   mkdocs
     #   mkdocs-markdownextradata-plugin
-regex==2020.7.14
+regex==2023.6.3
     # via nltk
 six==1.12.0
     # via
@@ -68,5 +66,3 @@ tornado==6.0.3
     #   mkdocs
 tqdm==4.49.0
     # via nltk
-zipp==3.1.0
-    # via importlib-metadata
