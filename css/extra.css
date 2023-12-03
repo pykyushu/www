@@ -82,3 +82,7 @@ body {
   --md-primary-fg-color--light: #7fadcf;
   --md-primary-fg-color--dark:  #0b3a5e;
 }
+
+table {
+    display: table !important;
+}
